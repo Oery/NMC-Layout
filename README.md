@@ -16,7 +16,6 @@ Uploader une bannière NameMC en 2 clics
 ## Problème
 En cas de mauvaise connection ou de PC trop long, modifiez assets/settings.json et augmentez le délai.
 
-
 ## Prochainement
 - Traduction anglaise
 - Connexion avec un compte Mojang
