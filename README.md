@@ -14,7 +14,7 @@ Uploader une bannière NameMC en 2 clics
 - Patienter jusqu'à la fin de l'upload
 
 ## Problème
-En cas de mauvaise connection ou de PC trop long, modifiez assets/settings.json et augmentez le délai.
+En cas de mauvaise connection ou de PC trop lent, modifiez assets/settings.json et augmentez le délai.
 
 ## Prochainement
 - Traduction anglaise
